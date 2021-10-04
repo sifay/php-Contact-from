@@ -1,0 +1,12 @@
+.message{
+    height: 100px;
+}
+
+.container{
+    position: relative;
+    top: 100px;
+}
+
+h3{
+    color: #212529;
+}
